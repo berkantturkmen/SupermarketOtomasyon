@@ -49,7 +49,7 @@ Yönetici ve personel yetkilendirme sistemiyle birlikte ürün yönetimi, satı�
 | Katman         | Teknoloji                 |
 |----------------|---------------------------|
 | Programlama    | C# (.NET Framework 4.8)    |
-| Veritabanı     | MySQL 8.x                 |
+| Veritabanı     | MySQL 8.4                 |
 | Arayüz         | Windows Forms             |
 | Yazıcı & PDF   | System.Drawing.Printing, iTextSharp |
 | Bağlantı       | MySql.Data (NuGet paketi) |
