@@ -69,10 +69,13 @@ Yönetici ve personel yetkilendirme sistemiyle birlikte ürün yönetimi, satı�
 
 ⚠️ Tüm yabancı anahtarlar referanslıdır. SQL script dosyası proje içinde yer alır.
 
-👨‍💼 Geliştirici
-Ad: Berkant Türkmen
-LinkedIn: linkedin.com/in/berkantturkmen
-GitHub: github.com/berkantturkmen
-E-posta: berkanttrkmen@gmail.com
+📜 Lisans
+Bu proje MIT lisansı ile lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasını inceleyin. 👨‍💻 Geliştirici Berkant Türkmen
+
+📫 Mail: berkanttrkmen@gmail.com
+
+💻 GitHub: github.com/berkantturkmen
+
+💼 LinkedIn: linkedin.com/in/berkantturkmen
 
 
